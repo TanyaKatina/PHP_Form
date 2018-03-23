@@ -1,0 +1,92 @@
+﻿body {
+    background-color: #d2f0d5;
+	background-image: url(sky.png) ;
+	background-size: 100%;
+	
+}
+
+h1 {
+	color: #527074;
+  	text-align: center;
+	font-family: Century Gothic;
+	font-size: 70pt;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}	
+
+h2 { 
+	color: #527074;
+    text-align: center;
+	font-family: Century Gothic;
+	font-size: 30pt;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}
+
+h3 { 
+	color: #527074;
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: 20pt;
+	font-weight: lighter;
+
+	
+}
+	
+
+.regtext {
+	color: #527074;
+	text-align: center;
+	font-family: Century Gothic;
+	font-weight: lighter;
+	font-variant:small-caps;
+	font-size: 15pt;
+}
+
+.submit {
+	text-align: center;
+}
+
+.button {
+	font-family: Century Gothic;
+	
+}
+
+
+
+
+
+#login {
+	margin: 100px auto;
+	width: 450px;
+	background: rgba(255,255,255,0.4);
+}
+
+#reg {
+	margin: 70px auto;
+	width: 770px;
+	background: rgba(255,255,255,0.4);
+}
+
+
+
+fieldset {
+	
+	text-align: center;
+	border: none;
+	
+}
+
+
+
+.error {
+	text-align: center;
+	color:red;
+}
+	
+label {
+	color: #527074;
+	font-family: Century Gothic;
+	font-size: 20pt;
+	font-weight: lighter;
+}
